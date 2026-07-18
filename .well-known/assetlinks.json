@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.mikhaeelatefrizk.workout",
+    "sha256_cert_fingerprints": ["CD:43:E6:94:B8:30:E6:C6:13:16:40:FA:FA:D8:48:81:B0:A9:4A:C8:7B:65:99:84:9E:37:7D:B1:8E:31:76:D1"]
+  }
+}]
